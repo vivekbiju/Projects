@@ -1,15 +1,7 @@
-# Data Manipulation
-pandas
-numpy
-
-# Visualization
-matplotlib
-seaborn
-
-# Machine Learning and Statistics
-scikit-learn
-scipy 
-
 streamlit
 joblib
+pandas
+numpy
 xgboost
+scikit-learn
+matplotlib
