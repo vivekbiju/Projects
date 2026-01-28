@@ -9,3 +9,7 @@ seaborn
 # Machine Learning and Statistics
 scikit-learn
 scipy 
+
+streamlit
+joblib
+xgboost
