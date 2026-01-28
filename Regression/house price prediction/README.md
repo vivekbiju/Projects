@@ -1,3 +1,25 @@
+# 🏡 House Price Predictor
+
+A machine learning web application that predicts house prices using **XGBoost** and **Streamlit**.
+
+## 🚀 Live Demo
+[Link to your Streamlit App]
+
+## 📊 Project Overview
+This project uses the Ames Housing Dataset to predict market values based on key features like square footage, overall quality, and neighborhood. It features an interactive dashboard with real-time price trends.
+
+## 🛠️ Tech Stack
+- **Model:** XGBoost Regressor
+- **Frontend:** Streamlit
+- **Data:** Pandas, NumPy, Scikit-learn
+- **Plots:** Matplotlib
+
+## ⚙️ How to Run Locally
+1. Clone the repo: `git clone <your-repo-link>`
+2. Install requirements: `pip install -r requirements.txt`
+3. Run the app: `streamlit run app.py`
+
+
 Ames Housing Price Prediction: Advanced Regression Techniques
 This project focuses on predicting the sale price of residential homes in Ames, Iowa. Using a dataset with 79 explanatory variables, the goal is to build a robust regression model that can accurately estimate property values through detailed feature engineering and advanced modeling. 
 Project Overview
